@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Jeongho Song from South Korea.
+I'm interested in Java Back-end engineer.
 
 <!--
 **sdfgx123/sdfgx123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
