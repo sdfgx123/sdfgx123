@@ -1,11 +1,11 @@
 ### Hi there 👋
 My name is Jeongho Song from South Korea.
 I'm interested in Java Back-end engineer.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdfgx123)](https://github.com/sdfgx123/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdfgx123)](https://github.com/sdfgx123/github-readme-stats)
-
+<br>
+<p align="justify"> 
+  <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=sdfgx123&hide_title=flase&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=onedark&title_color=446FC1&text_color=f0eee9&icon_color=446FC1" />
+  <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdfgx123&hide=CSS,HTML&hide_title=true&layout=compact&langs_count=5&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"/>
+</p>
 <!--
 **sdfgx123/sdfgx123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
