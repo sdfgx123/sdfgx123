@@ -1,6 +1,5 @@
-### Hi there 👋
-My name is Jeongho Song from South Korea.
-I'm interested in Java Back-end engineer.
+안녕하세요, 자바 백엔드 개발자 송정호 입니다.
+저는 자바 스택으로서, 스프링 부트와 JPA에 관심이 많습니다.
 <br>
 <p align="justify"> 
   <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=sdfgx123&hide_title=flase&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=onedark&title_color=446FC1&text_color=f0eee9&icon_color=446FC1" />
