@@ -1,6 +1,10 @@
 안녕하세요, 자바 백엔드 개발자 송정호 입니다.
 저는 자바 스택으로서, 스프링 부트와 JPA에 관심이 많습니다.
 <br>
+<hr>
+### 기술 스택
+<hr>
+
 <p align="justify"> 
   <img alt="github stats" height="160px" src="https://github-readme-stats.vercel.app/api?username=sdfgx123&hide_title=flase&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=onedark&title_color=446FC1&text_color=f0eee9&icon_color=446FC1" />
   <img alt="Top Langs" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdfgx123&hide=CSS,HTML&hide_title=true&layout=compact&langs_count=5&hide_border=true&theme=onedark&title_color=5f4b8b&text_color=f0eee9&icon_color=00abc0"/>
